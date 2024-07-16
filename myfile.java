@@ -2,6 +2,6 @@ class myfile
 {
     public static void main(String []args)
     {
-        System.out.println(" aditya  laxman wadekarrr.");
+        System.out.println(" aditya  wadekarrr.");
     }
 };
